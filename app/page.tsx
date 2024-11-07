@@ -33,7 +33,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Amplify Test with ReactJs</h1>
+      <h1>Amplify Test with ReactJs (this is Dev)</h1>
       <button onClick={createTodo}>+ new</button>
       <ul>
         {todos.map((todo) => (
